@@ -7,6 +7,6 @@ Team: Yuliia Nikolaenko, Eduardo Bonnefemne, Gabriel Pérez García, Elena-Mihae
  
 
 Project tasks: 
-1. Build models (eg linear models, kNN, Naïve Bayes, Dicision Trees) 
+1. Build models (eg linear models, kNN, Naïve Bayes, Decision Trees) 
 2. Evaluate performances on evaluation set using AUC and BER
 3. Compute confidence intervals and experimentally discuss their validity
